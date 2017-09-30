@@ -1,4 +1,3 @@
 This is KillerRobot 2 :)
 This is my second line!!
-Test 2 of Killerrobot
-Hello this is Adrian..
+Test 3 of Killerrobot
