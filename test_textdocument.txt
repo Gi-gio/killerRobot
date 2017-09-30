@@ -4,4 +4,3 @@ This is Adrian's change Nr. 3
 This is Adrian's change Nr. 4
 Hallo Hallo Hallo (Adrian)
 
-This is my new added line!
